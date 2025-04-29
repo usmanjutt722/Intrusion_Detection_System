@@ -66,3 +66,9 @@ Pandas, NumPy
 ### Privacy and Ethical Considerations
 
 The UNSW-NB15 dataset is publicly available and openly licensed for academic research purposes. The dataset was generated in a controlled space in a research lab. It does not contain any personally identifiable information (PII) and is anonymized. The dataset is solely used for research purposes. This project will not generate real attacks on the live network traffic. As the dataset is compliant with data protection laws such as GDPR, so there are no ethical concerns, and the dataset fulfils the ethical requirements of UH ethical policies. 
+
+### License
+This project is licensed under the MIT License.
+You are free to use, modify, and distribute this work for academic and research purposes.
+Please ensure proper attribution and compliance with ethical standards.
+
