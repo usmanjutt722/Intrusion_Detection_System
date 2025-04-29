@@ -10,6 +10,6 @@ that are stored in UNSW-NB15_features.csv file. 2 million and  entries. The tota
 namely, UNSW-NB15_1.csv, UNSW-NB15_2.csv, UNSW-NB15_3.csv and UNSW-NB15_4.csv. The ground truth table is named UNSW-NB15_GT.csv and the list of event file is called 
 UNSW-NB15_LIST_EVENTS.csv. The dataset also contains UNSW_NB15_training-set.csv and UNSW_NB15_testing-set.csv respectively.
 
-For this project, i have used UNSW-NB15_features.csv for column names and UNSW-NB15_1.csv, UNSW-NB15_2.csv, UNSW-NB15_3.csv and UNSW-NB15_4.csv, I have combined these 
+For this project, we used UNSW-NB15_features.csv for column names and UNSW-NB15_1.csv, UNSW-NB15_2.csv, UNSW-NB15_3.csv and UNSW-NB15_4.csv, we combined these 
 five files into one csv file for easy processing. 
 
