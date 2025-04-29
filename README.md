@@ -1,5 +1,6 @@
-# Intrusion_Detection_System
-The final readme file in the GitHub repository will contain the following information:
+## Enhanced AI-Powered Network Intrusion Detection System
+Project Overview
+This project focuses on building a robust, AI-powered intrusion detection system (IDS) using machine learning and deep learning techniques. Models were trained and evaluated on the UNSW-NB15 dataset, covering both traditional machine learning models (Random Forest, XGBoost) and a deep learning model (Feedforward Neural Network, FNN).
 
 •	A detailed summary of the dataset
 
