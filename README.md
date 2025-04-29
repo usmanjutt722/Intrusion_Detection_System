@@ -26,7 +26,7 @@ Label encoding for categorical features.
 
 > Standardization (Z-score normalization) for numerical stability.
 
-### Model Training
+## Model Training:
 ### Random Forest:
 
 Untuned and hyperparameter-tuned versions.
