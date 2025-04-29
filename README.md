@@ -1,4 +1,4 @@
-### Enhanced AI-Powered Network Intrusion Detection System
+# Enhanced AI-Powered Network Intrusion Detection System
 
 # Project Overview:
 
